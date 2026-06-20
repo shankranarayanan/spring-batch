@@ -1,0 +1,6 @@
+firstName|lastName|dateOfBirth|phone|email|address|country
+John|Doe|2000-01-15|1234567890|john.doe@example.com|123 Main Street|United States
+Jane|Smith|1995-05-20|9876543210|jane.smith@example.com|456 Oak Avenue|Canada
+Michael|Johnson|1988-08-10|5555555555|michael.j@example.com|789 Pine Road|United Kingdom
+Sarah|Williams|2001-03-25|4444444444|sarah.w@example.com|321 Elm Street|Australia
+Robert|Brown|1992-11-05|3333333333|robert.b@example.com|654 Maple Drive|USA
