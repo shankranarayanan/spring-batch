@@ -1,0 +1,5 @@
+firstName,lastName,dateOfBirth,phone,email,address,country
+Emma|Garcia|1999-07-12|2222222222|emma.g@example.com|111 Cedar Lane|Mexico
+Oliver|Martinez|1990-09-30|1111111111|oliver.m@example.com|222 Birch Street|Spain
+Sophia|Rodriguez|2002-02-14|6666666666|sophia.r@example.com|333 Spruce Avenue|Argentina
+Liam|Lopez|1993-12-08|7777777777|liam.l@example.com|444 Willow Drive|Chile
